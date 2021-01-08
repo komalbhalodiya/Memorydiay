@@ -22,4 +22,5 @@ public class LoginActivity extends AppCompatActivity {
         startActivity(new Intent(this,RegisterActivity.class));
         overridePendingTransition(R.anim.slide_in_right,R.anim.stay);
     }
+    komal bhalodiya
 }
